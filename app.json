@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ForHunger",
+    "slug": "ForHunger",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ForHunger"
+}
